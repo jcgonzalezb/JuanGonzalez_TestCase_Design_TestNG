@@ -39,7 +39,8 @@ public class AppTest
 
     /**----- Test Case 3 ------ */
     @Test
-    public void deactivateUser (){
+    public void deactivateUser () {
+        log.info("Log into ESPN page");
         log.info("Deactivate user");
     }
 
@@ -48,5 +49,4 @@ public class AppTest
         log.info("Close ESPN page");
         log.info("Close the browser");
     }
-
 }
