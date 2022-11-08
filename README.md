@@ -7,9 +7,9 @@
 - Create a pom.xml file using TestNG
 - Create a .gitgnore file
 - Create the following tests for the ESPN website (https://www.espnqa.com/?_adbock=true&src=com&espn=cloud)
--- Log in
--- Log out
--- Deactivate user
+  - Log in
+  - Log out
+  - Deactivate user
 - Every step done for the execution of the test must be print on the console
 - Use loggers (if possible)
 - Create a suite test (xml file) with the execution of the classes.
