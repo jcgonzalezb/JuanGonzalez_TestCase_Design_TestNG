@@ -10,7 +10,7 @@ public class AppTest {
 
     @BeforeSuite
     public void setUp() {
-        log.info("Set up system properties for the browser");
         log.info("Have a valid ESPN account");
+        log.info("Set up system properties for the browser");
     }
 }
