@@ -1,9 +1,24 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="ESPN Test suite" verbose="1">
-    <test name="ESPN test cases">
+    <test name="ESPN initial configuration test">
         <classes>
             <class name="com.globant.AppTest"></class>
+        </classes>
+    </test>
+    <test name="ESPN Login in test">
+        <classes>
+            <class name="com.globant.LogInTest_ESPN"></class>
+        </classes>
+    </test>
+    <test name="ESPN Login out test">
+        <classes>
+            <class name="com.globant.LogOutTest_ESPN"></class>
+        </classes>
+    </test>
+    <test name="ESPN deactivate user test">
+        <classes>
+            <class name="com.globant.DeactivateUser_ESPN"></class>
         </classes>
     </test>
 </suite>
