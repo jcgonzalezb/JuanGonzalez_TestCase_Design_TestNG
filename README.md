@@ -1,29 +1,20 @@
-# testNG workshop
-> This project is a program which allows basic tests on the ESPN webpage.
+# Locators workshop
+> This project is a pdf file with the locators needed to perform several procedure on the ESPN website. 
 
 ## Objectives
 
-- Crete a Java project using Maven
-- Create a pom.xml file using TestNG
-- Create a .gitgnore file
-- Create the following tests for the ESPN website (https://www.espnqa.com/?_adbock=true&src=com&espn=cloud)
+- Create a pdf file with a list of the locators needed to perform the following procedure on the ESPN website (https://www.espnqa.com/?_adbock=true&src=com&espn=cloud):
   - Log in
   - Log out
-  - Deactivate user
-- Every step done for the execution of the test must be print on the console
-- Use loggers (if possible)
-- Create a suite test (xml file) with the execution of the classes.
-- Simulate the open and close browser steps for every test.
+  - Delete user
+
+- The list has some pictures of all the locators described.  
 
 ## Table of content
 
-* [Environment](#environment)
 * [Bugs](#bugs)
 * [Author](#author)
 * [License](#license)
-
-##  Environment
-This project was developed on IntelliJ IDEA 2022.2.3 (Community Edition), Apache Maven 3.8.6 and testNG 6.14.3. 
 
 ## Bugs
 
