@@ -1,5 +1,5 @@
 # Locators workshop
-> This project is a pdf file with the locators needed to perform several procedure on the ESPN website. 
+> This project is a pdf file a list of the locators needed to perform several procedure on the ESPN website. 
 
 ## Objectives
 
@@ -7,14 +7,11 @@
   - Log in
   - Log out
   - Delete user
-
 - The list has some pictures of all the locators described.  
 
-## Table of content
+### File Description
 
-* [Bugs](#bugs)
-* [Author](#author)
-* [License](#license)
+- ```ESPNLocators_Juan Camilo_Gonzalez Bautista.pdf``` contains a 10-page pdf file with a list of the locators requested.
 
 ## Bugs
 
