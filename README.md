@@ -11,7 +11,7 @@
 
 ### File Description
 
-- ```ESPNLocators_Juan Camilo_Gonzalez Bautista.pdf``` contains a 10-page pdf file with a list of the locators requested.
+- ```ESPNLocators_Juan Camilo_Gonzalez Bautista.pdf``` contains a 11-page pdf file with a list of the locators requested.
 
 ## Bugs
 
